@@ -1,6 +1,6 @@
 # InfuseSMP-Plugin-By-ItzXgg
 <p align="center">
-  <img src="A_2D_digital_graphic_banner_for_the_'Infuse_SMP_Pl.png" width="850" alt="Infuse SMP Plugin Banner">
+  <img src="file_000000002e6c62068aff97b1d270e7f5.png" width="850" alt="Infuse SMP Plugin Banner">
 </p>
 
 <h1 align="center">⚔️ Infuse SMP Plugin</h1>
